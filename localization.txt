@@ -1,0 +1,53 @@
+[[Common]]
+    [backButton]
+        en = Back
+        es = Atrás
+    [doneButton]
+        en = Done
+        es = Acabado
+
+[[Home]]
+    [homeAdventuresButton]
+        en = Adventures
+        es = Aventuras
+    [homeMapButton]
+        en = Map
+        es = Mapa
+    [homeDeviceButton]
+        en = Device
+        es = Aparato
+    [homeTitle]
+        en = Pets
+        es = Mascotas
+
+[[Adventures]]
+    [adventuresTitle]
+        en = Adventures
+        es = Aventuras
+    [adventuresXyzButton]
+        en = XYZ
+        es = XYZ
+
+[[Device]]
+    [deviceTitle]
+        en = Device
+        es = Aparato
+    [deviceQwertyButton]
+        en = QWERTY
+        es = QWERTY
+
+[[Map]]
+    [mapTitle]
+        en = Map
+        es = Mapa
+    [mapModalButton]
+        en = Modal View
+        es = Vista Modal
+
+[[Modal]]
+    [modalTitle]
+        en = Modal View
+        es = Vista Modal
+    [modalAsdfButton]
+        en = ASDF
+        es = ASDF
